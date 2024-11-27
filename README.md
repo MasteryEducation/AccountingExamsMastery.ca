@@ -52,6 +52,9 @@
   - [Content License: Creative Commons CC BY-NC-ND 4.0](#content-license-creative-commons-cc-by-nc-nd-40)
 - [Acknowledgements](#acknowledgements)
 - [Maintenance Commands](#maintenance-commands)
+- [Deleopment Environment](#deleopment-environment)
+  - [Maintenance Commands](#maintenance-commands-1)
+  - [Upgrade Dart Sass for Hugo 0.139.0](#upgrade-dart-sass-for-hugo-01390)
 
 </details>
 
@@ -183,3 +186,23 @@ See [LICENSE](LICENSE.md) for more information.
     hugo mod get -u ./...
     git add -A && git commit -am. && git push
 
+---
+
+## Deleopment Environment
+
+### Maintenance Commands
+
+    brew upgrade hugo
+    brew upgrade node
+    node --version
+    brew upgrade node
+    npm install
+    npm update
+    hugo mod get -u ./...
+    git add -A && git commit -am. && git push
+
+### Upgrade Dart Sass for Hugo 0.139.0
+
+https://gohugo.io/functions/css/sass/#dart-sass
+
+    brew install sass/sass/sass
