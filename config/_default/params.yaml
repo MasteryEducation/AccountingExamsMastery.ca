@@ -36,7 +36,7 @@ hb:
   full_width: true
 
   header:
-    brand: Accounting Exams Mastery - Canada
+    brand: Accounting Exams Mastery CA
     socials:
       github: MasteryEducation
       twitter: TokenizerCA
@@ -53,7 +53,7 @@ hb:
   blog:
     sidebar:
       profile:
-        title: Accounting Exams Mastery - Canada
+        title: Accounting Exams Mastery CA
       posts:
         recent_count: 0
         featured_count: 0
