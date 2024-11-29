@@ -9,6 +9,14 @@ main:
         vendor: bs
         name: book
 
+  - name: Intermediate Accounting Concepts
+    identifier: intermediate
+    weight: 2
+    params:
+      icon:
+        vendor: bs
+        name: book
+
   - name: Canadian-Specific Accounting Practices
     identifier: canadian
     weight: 4
