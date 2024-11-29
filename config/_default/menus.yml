@@ -1,8 +1,8 @@
 # https://raw.githubusercontent.com/hbstack/site/main/config/_default/menus.en.yml
 
 main:
-  - name: Universal
-    identifier: universal
+  - name: Fundamental Accounting Principles
+    identifier: fundamental
     weight: 1
     params:
       icon:
