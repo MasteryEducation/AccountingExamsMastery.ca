@@ -9,25 +9,25 @@ main:
         vendor: bs
         name: book
 
-  - name: Canadian-Specific
+  - name: Canadian-Specific Accounting Practices
     identifier: canadian
-    weight: 2
-    params:
-      icon:
-        vendor: bs
-        name: book
-
-  - name: Exams
-    identifier: exams
-    weight: 3
-    params:
-      icon:
-        vendor: bs
-        name: book
-
-  - name: Specialty
-    identifier: specialty
     weight: 4
+    params:
+      icon:
+        vendor: bs
+        name: book
+
+  - name: Specialized Accounting Exam Preparation
+    identifier: exams
+    weight: 5
+    params:
+      icon:
+        vendor: bs
+        name: book
+
+  - name: Accounting Ethics and Professionalism
+    identifier: ethics
+    weight: 6
     params:
       icon:
         vendor: bs
