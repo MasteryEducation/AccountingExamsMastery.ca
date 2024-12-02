@@ -17,6 +17,15 @@ main:
         vendor: bs
         name: book
 
+  - name: Advanced Accounting Topics
+    identifier: advanced
+    weight: 3
+    params:
+      icon:
+        vendor: bs
+        name: book
+
+
   - name: Canadian-Specific Accounting Practices
     identifier: canadian
     weight: 4
